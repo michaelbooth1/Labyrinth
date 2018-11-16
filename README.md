@@ -1,0 +1,1 @@
+This assignment I was tasked with creating an algorithm that would be able to escape a predefined labyrinth
